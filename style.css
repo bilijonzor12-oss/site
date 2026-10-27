@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(7, 7, 7, 1);
+    height: 5000px;
+}
+
+
+header {
+    width: 1940px;
+    height: 84px;
+    opacity: 1;
+    padding-top: 20px;
+    padding-right: 150px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+}
+
+.hyper {
+    position: absolute;
+    width: 168.71875px;
+    height: 43.998411178588867px;
+    opacity: 1;
+    left: 100px;
+    top: 90px;
+}
+
+.oval {
+    position: absolute;
+    width: 54.46875;
+    height: 44.46875;
+    top: 56.998411178588867px;
+    left: 1806.58px;
+    opacity: 1;
+    border-width: 1px;
+}
+
+.act {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    position:absolute;
+    width: 199px;
+    height: 28px;
+    top: 459px;
+    left: 100px;
+    opacity: 1;
+
+}
+
+.acttext {
+    position: absolute;
+    width: 19px;
+    height: 22px;
+    top: -1px;
+    angle: 0 deg;
+    opacity: 1;
+    color: rgba(237, 247, 56, 1);
+
+
+
+}
+
+.act > div {
+    position: absolute;
+    width: 24px;
+    height: 1px;
+    top: 10.36px;
+    left: 37.33px;
+    angle: 0 deg;
+    opacity: 1;
+    background-color: rgba(237, 247, 56, 1);
+
+}
+
+.idk {
+    position: absolute;
+    width: 50.40312576293945;
+    height: 16;
+    top: -1px;
+    left: 89.33px;
+    angle: 0 deg;
+    opacity: 1;
+    color: rgba(237, 247, 56, 1);
+
+}
+
+.star {
+    position: absolute;
+    width: 42.67207023360688;
+    height: 42.727673267306002;
+    top: 123.18px;
+    left: 991.86px;
+}
+
+.box {
+    background-image: url(img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 1100px;
+    height: 600PX;
+    left: 450PX;
+    top: 250PX;
+}
+
+.create {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 168.296875px;
+    height: 21.71875px;
+    top: 459px;
+    left: 1723.8px;
+    angle: 0 deg;
+    opacity: 1;
+
+}
+
+.create > :first-child {
+    position: absolute;
+    width: 38px;
+    height: 22px;
+    top: -1px;
+    angle: 0 deg;
+    opacity: 1;
+    color: rgba(237, 247, 56, 1);
+}
+
+.create > div {
+    
+}
+.create > :last-child {
+    position: absolute;
+    width: 60.15312576293945;
+    height: 10;
+    top: -1px;
+    left: 70.34px;
+    angle: 0 deg;
+    opacity: 1;
+    color: rgba(237, 247, 56, 1);
+}
+
+
+.seccond {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    width: 1900px;
+    height: 200px;
+    top: 1000px;
+}
+
+.seccond > h2 {
+    position: absolute;
+    width: 68.37187194824219;
+    height: 36;
+    top: 1px;
+    angle: 0 deg;
+    opacity: 1;
+    color: white;
+
+}
+
+.seccond > div {
+    position: absolute;
+    width: 436.4375;
+    height: 135.375;
+    top: -1px;
+    left: 92.17px;
+    angle: 0 deg;
+    opacity: 1;
+
+}
+
+.seccond > div > h1 {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 56px;
+    leading-trim: NONE;
+    line-height: 67.2px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+.seccond > div > img {
+    position: absolute;
+    width: 35;
+    height: 35;
+    angle: 0 deg;
+    opacity: 1;
+    top: 80px;
+    left: 40px;
+}
+
+.brands {
+    position: absolute;
+    angle: 0 deg;
+    opacity: 1;
+    top: 70px;
+    left: 70px;
+    color: white;
+}
+
+.seccond > button {
+    position: absolute;
+    width: 273.609375;
+    height: 64.46875;
+    left: 1471.38px;
+    padding-top: 13.83px;
+    padding-right: 19px;
+    padding-bottom: 13.84px;
+    padding-left: 19px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 100px;
+    border-width: 1px;
+    background-color: rgba(7, 7, 7, 1);
+    color: white;
+    border-color: rgba(232, 232, 232, 1)
+}
+
